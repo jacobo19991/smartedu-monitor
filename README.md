@@ -11,6 +11,7 @@ SmartEdu Monitor es una plataforma integral diseñada para instituciones educati
 - **Detección de Riesgo Automatizada:** Algoritmos que clasifican el nivel de riesgo (Alto, Medio, Bajo) combinando calificaciones y asistencia.
 - **Centro de Alertas:** Panel centralizado para revisar y gestionar alertas críticas con acciones recomendadas generadas dinámicamente.
 - **Directorio de Estudiantes:** Tabla completa con búsqueda en tiempo real y filtros por grado y nivel de riesgo.
+- **Data Source Integrado:** Consumo de datos JSON estáticos que simulan respuestas reales de una API RESTful.
 - **Reportes Analíticos:** Dashboard de métricas globales y exportación de base de datos completa a CSV.
 - **Modo Oscuro:** Soporte nativo para temas claros y oscuros según la preferencia del usuario.
 - **Diseño Premium:** Interfaz de usuario moderna, fluida y con micro-interacciones.
